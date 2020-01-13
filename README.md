@@ -1,6 +1,5 @@
 # inclass-webgl-ahagenstein
 
-# Template Repository for Unity3D version 2019.1.14f1
 
 ### Project description: 
 WebGl testing repository and hosting.  
